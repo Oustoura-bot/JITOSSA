@@ -23,7 +23,7 @@ global.wm = 'AMIN';
 global.titulowm = 'OUSTOURA';
 global.titulowm2 = `OUSTOURA`
 global.igfg = 'OUSTOURA';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
+global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_https://www.instagram.com/amin1_tech1?igsh=NmNtY2hsMmtnb3ox_*';
 global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
 global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
 global.rwait = '⏳';
@@ -50,8 +50,8 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nOUSTOURA`;
 global.gt = 'OUSTOURA';
 global.mysticbot = 'OUSTOURA';
-global.md = 'https://instagram.com/ovmar_1';
-global.mysticbot = 'https://instagram.com/ovmar_1';
+global.md = 'https://www.instagram.com/amin1_tech1?igsh=NmNtY2hsMmtnb3ox';
+global.mysticbot = 'https://www.instagram.com/amin1_tech1?igsh=NmNtY2hsMmtnb3ox';
 global.nomorown = '212710643142';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
