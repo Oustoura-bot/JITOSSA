@@ -46,4 +46,4 @@ export async function before(m, { conn, isAdmin, isBotAdmin, isOwner, isROwner }
 }
 
 // تعطيل الأمر إذا كانت القيمة متاحة وتكون true.
-export const disabled = false;
+export const disabled = true;
